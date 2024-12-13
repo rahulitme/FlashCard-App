@@ -1,16 +1,30 @@
-# myapp
+#Flashcard App
 
-A new Flutter project.
+Objective
 
-## Getting Started
+Build a flashcard app that allows users to create, view, edit, and delete flashcards. Each flashcard will have a question and an answer.
 
-This project is a starting point for a Flutter application.
+Core Features
 
-A few resources to get you started if this is your first Flutter project:
+Main Screen
+Display a list of flashcards with questions.
+Each flashcard has Edit and Delete buttons.
+Tapping a flashcard shows the answer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add Flashcard
+Users can add new flashcards with a question and answer.
+Implement form validation (e.g., question cannot be empty).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Edit Flashcard
+Users can edit existing flashcards.
+
+Pre-populate the form with the current question and answer.
+
+Delete Confirmation
+Show a confirmation pop-up before deleting a flashcard.
+
+UI Design
+Simple, clean interface with cards for each flashcard.
+
+Hosting URL: https://signup-login-c26e4.web.app 
+
